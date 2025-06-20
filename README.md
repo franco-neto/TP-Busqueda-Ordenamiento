@@ -58,6 +58,6 @@ También se practicó la escritura de código limpio, comentado y modular.
 
 ## 📽️ Video explicativo
 
-🔗 \https://www.youtube.com/watch?v=gR3C7hRJCv4
+🔗 \https://www.youtube.com/watch?v=THmEDZXfT8o
 
 ---
